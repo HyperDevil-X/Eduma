@@ -1,0 +1,21 @@
+D:\dot net prog\Eduma College\Eduma College\bin\Debug\Eduma College.exe
+D:\dot net prog\Eduma College\Eduma College\bin\Debug\Eduma College.pdb
+D:\dot net prog\Eduma College\Eduma College\obj\x86\Debug\Eduma_College.Form1.resources
+D:\dot net prog\Eduma College\Eduma College\obj\x86\Debug\Eduma_College.Properties.Resources.resources
+D:\dot net prog\Eduma College\Eduma College\obj\x86\Debug\Eduma College.csproj.GenerateResource.Cache
+D:\dot net prog\Eduma College\Eduma College\obj\x86\Debug\Eduma College.exe
+D:\dot net prog\Eduma College\Eduma College\obj\x86\Debug\Eduma College.pdb
+D:\dot net prog\Eduma College\Eduma College\bin\Debug\Eduma_Database.mdf
+D:\dot net prog\Eduma College\Eduma College\bin\Debug\Eduma_Database_log.ldf
+D:\dot net prog\Eduma College\Eduma College\bin\Debug\Eduma College.exe.config
+D:\dot net prog\Eduma College\Eduma College\obj\x86\Debug\Eduma College.csprojResolveAssemblyReference.cache
+D:\dot net prog\Eduma College\Eduma College\obj\x86\Debug\Eduma_College.Addmission_Form.resources
+D:\dot net prog\Eduma College\Eduma College\obj\x86\Debug\Eduma_College.Upgrade_semester.resources
+D:\dot net prog\Eduma College\Eduma College\obj\x86\Debug\Eduma_College.Fees.resources
+D:\dot net prog\Eduma College\Eduma College\obj\x86\Debug\Eduma_College.Fees_Submit_By_Student.resources
+D:\dot net prog\Eduma College\Eduma College\obj\x86\Debug\Eduma_College.SearchIndividualStudent.resources
+D:\dot net prog\Eduma College\Eduma College\obj\x86\Debug\Eduma_College.AddTeacher.resources
+D:\dot net prog\Eduma College\Eduma College\obj\x86\Debug\Eduma_College.SearchTeacher.resources
+D:\dot net prog\Eduma College\Eduma College\obj\x86\Debug\Eduma_College.RemoveStudent.resources
+D:\dot net prog\Eduma College\Eduma College\obj\x86\Debug\Eduma_College.Aboutus.resources
+D:\dot net prog\Eduma College\Eduma College\obj\x86\Debug\Eduma_College.Contactus.resources
